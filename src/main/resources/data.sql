@@ -1,0 +1,18 @@
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero delle Cinque Terre', 'La Spezia', 12.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Cammino di Santiago', 'Santiago de Compostela', 800.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Trekking al Grand Canyon', 'Arizona', 35.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione al Parco Nazionale di Yellowstone', 'Wyoming', 15.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione al Parco Nazionale di Yosemite', 'California', 20.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero degli Dei', 'Campania', 7.8);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Trekking sulle Montagne Rocciose', 'Colorado', 35.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione sul Kilimangiaro', 'Tanzania', 65.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero degli Appalachi', 'Georgia', 3500.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Trekking nella Foresta Amazzonica', 'Brasile', 100.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione al Monte Fuji', 'Giappone', 19.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero dell''Inca', 'Perù', 43.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione nel Parco Nazionale del Torres del Paine', 'Cile', 20.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Trekking al Machu Picchu', 'Perù', 26.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero del Monte Kinabalu', 'Malesia', 8.7);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Trekking nel Parco Nazionale del Serengeti', 'Tanzania', 15.5);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Escursione nel Parco Nazionale degli Arcipelaghi', 'Finlandia', 12.0);
+INSERT INTO Trekking (NAME_TREKKING, CITY_TREKKING, KM) VALUES ('Sentiero del Salto Angel', 'Venezuela', 20.0);
